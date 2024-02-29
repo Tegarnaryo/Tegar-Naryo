@@ -1,0 +1,2 @@
+# Tegar-Naryo
+Apt
